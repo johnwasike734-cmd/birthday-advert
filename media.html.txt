@@ -1,0 +1,22 @@
+<!Doctype html>
+<html>
+
+<head>
+    <title>media</title>
+</head>
+
+<body>
+    <h1>My music</h1>
+    <audio controls autoplay>
+        <source src="song.mp3" type="audio/mpeg">
+
+
+    </audio>
+    <h1>My video</h1>
+    <video width="400" controls>
+        <source src="Anosike" type="video/mp4">
+    </video>
+
+</body>
+
+</html>
